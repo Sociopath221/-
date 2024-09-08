@@ -1,4 +1,5 @@
-  "preset_color_schemes/green":
+## 复古绿
+"preset_color_schemes/green":
     author: chanandler
     back_color: 14872055
     border_color: 10331524
@@ -12,4 +13,89 @@
     hilited_text_color: 0
     label_color: 5789529
     name: "green/复古绿"
+    text_color: 0
+
+## 复古粉
+  "preset_color_schemes/pink":
+    author: chanandler
+    back_color: 15597055
+    border_color: 10849744
+    candidate_text_color: 8603309
+    comment_text_color: 10520782
+    hilited_back_color: 8388607
+    hilited_candidate_back_color: 10520782
+    hilited_candidate_text_color: 15722239
+    hilited_comment_text_color: 15722239
+    hilited_label_color: 15722239
+    hilited_text_color: 0
+    label_color: 10520782
+    name: "pink/复古粉"
+    text_color: 0
+
+## 老友记浅紫
+  "preset_color_schemes/friends":
+    author: chanandler
+    back_color: 16773113
+    border_color: 16773113
+    candidate_text_color: 1513748
+    comment_text_color: 5132111
+    hilited_back_color: 13948116
+    hilited_candidate_back_color: 16759526
+    hilited_candidate_text_color: 4286243
+    hilited_comment_text_color: 5132111
+    hilited_label_color: 4286243
+    hilited_text_color: 0
+    label_color: 7961210
+    name: friends
+    text_color: 0
+
+## 复古绿(dark)
+  "preset_color_schemes/central perk":
+    author: chanandler
+    back_color: 8230504
+    border_color: 8230504
+    candidate_text_color: 11271900
+    comment_text_color: 16580091
+    hilited_back_color: 200198
+    hilited_candidate_back_color: 2643217
+    hilited_candidate_text_color: 11271900
+    hilited_comment_text_color: 16580091
+    hilited_label_color: 9752243
+    hilited_text_color: 16514556
+    label_color: 7713431
+    name: "central perk"
+    text_color: 1358960
+
+## 浅蓝
+  "preset_color_schemes/blue":
+    author: chanandler
+    back_color: 15460303
+    border_color: 13609853
+    candidate_text_color: 0
+    comment_text_color: 5132111
+    hilited_back_color: 13948116
+    hilited_candidate_back_color: 13609853
+    hilited_candidate_text_color: 16777215
+    hilited_comment_text_color: 5132111
+    hilited_label_color: 16629165
+    hilited_text_color: 0
+    label_color: 11969689
+    name: blue
+    text_color: 0
+
+## 青绿
+  "preset_color_schemes/Turquoise":
+    author: chanandler
+    back_color: 16381677
+    border_color: 12502403
+    candidate_text_color: 7826688
+    comment_text_color: 5132111
+    hilited_back_color: 13948116
+    hilited_candidate_back_color: 12502403
+    hilited_candidate_text_color: 4669956
+    hilited_comment_text_color: 8159567
+    hilited_label_color: 7826688
+    hilited_text_color: 0
+    label_color: 12502403
+    name: "Turquoise/青绿"
     text_color: 0
