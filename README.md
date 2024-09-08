@@ -1,5 +1,5 @@
 # 一些自定义的小狼毫输入法皮肤
-所用字体来源于https://github.com/lxgw/LxgwWenKai
+所用字体为霞鹜文楷，来源于https://github.com/lxgw/LxgwWenKai
 
 ## 复古粉
 ![color_scheme_pink](https://github.com/user-attachments/assets/efb50f0d-f93b-4049-aa9d-2fdb7ccdfe35)
