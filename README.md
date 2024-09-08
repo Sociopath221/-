@@ -4,7 +4,7 @@
 ![color_scheme_pink](https://github.com/user-attachments/assets/efb50f0d-f93b-4049-aa9d-2fdb7ccdfe35)
 
 ## 复古绿
-![color_scheme_green](https://github.com/user-attachments/assets/e3cbc0d4-b4b5-412a-8f28-229ce2e394f4)
+![color_scheme_green](https://github.com/user-attachments/assets/166a94df-8355-4272-9eb8-97816c4b9dba)
 
 ## 复古绿(dark)
 ![color_scheme_central perk](https://github.com/user-attachments/assets/3249e55b-e1de-4916-ac81-a81b4917d3e0)
