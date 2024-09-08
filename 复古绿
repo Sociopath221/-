@@ -1,0 +1,15 @@
+  "preset_color_schemes/green":
+    author: chanandler
+    back_color: 14872055
+    border_color: 10331524
+    candidate_text_color: 0
+    comment_text_color: 5132111
+    hilited_back_color: 13948116
+    hilited_candidate_back_color: 10331524
+    hilited_candidate_text_color: 15920895
+    hilited_comment_text_color: 5132111
+    hilited_label_color: 13819391
+    hilited_text_color: 0
+    label_color: 5789529
+    name: "green/复古绿"
+    text_color: 0
