@@ -99,3 +99,15 @@
     label_color: 12502403
     name: "Turquoise/青绿"
     text_color: 0
+
+## 我使用的stye
+  "style/font_point": 13
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/label_font_point": 12
+  "style/layout/border": 2
+  "style/layout/candidate_spacing": 22
+  "style/layout/hilite_padding": 4
+  "style/layout/hilite_spacing": 4
+  "style/layout/margin_x": 8
+  "style/layout/margin_y": 8
